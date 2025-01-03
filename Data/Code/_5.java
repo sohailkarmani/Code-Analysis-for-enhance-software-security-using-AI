@@ -3,7 +3,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class InsecureFileHandling {
+public class _5{
     public static void main(String[] args) {
         File file = new File("sensitive_data.txt");
 

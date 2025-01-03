@@ -1,5 +1,5 @@
 //Hardcoded API Key
-public class HardcodedAPIKey {
+public class _2{
     private static final String API_KEY = "1234567890abcdef"; // Hardcoded API key
 
     public static void main(String[] args) {

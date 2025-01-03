@@ -1,7 +1,7 @@
 //Weak Password Storage
 import java.util.HashMap;
 
-public class WeakPasswordStorage {
+public class _10{
     private static HashMap<String, String> userPasswords = new HashMap<>();
 
     public static void main(String[] args) {

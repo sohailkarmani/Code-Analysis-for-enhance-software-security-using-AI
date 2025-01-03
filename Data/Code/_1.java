@@ -1,7 +1,7 @@
 // Command Injection 
 import java.util.Scanner;
 
-public class CommandInjectionUpdated {
+public class _1{
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.println("Enter a command to execute:");

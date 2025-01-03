@@ -1,7 +1,7 @@
 // Insecure Random Number Generation
 import java.util.Random;
 
-public class InsecureRandom {
+public class _6{
     public static void main(String[] args) {
         Random random = new Random();
 

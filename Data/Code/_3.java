@@ -1,5 +1,5 @@
 //  Hardcoded Credentials
-public class HardcodedCredentials {
+public class _3{
     private static final String DB_USERNAME = "admin"; // Hardcoded credentials
     private static final String DB_PASSWORD = "12345"; // Hardcoded credentials
 

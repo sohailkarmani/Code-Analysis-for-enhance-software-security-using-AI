@@ -3,7 +3,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class UnrestrictedFileUpload {
+public class _8{
     public static void main(String[] args) {
         try {
             String fileName = "uploaded_file.exe"; // Dangerous file type

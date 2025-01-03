@@ -1,5 +1,5 @@
 // Improper Exception Handling
-public class ImproperExceptionHandling {
+public class _4{
     public static void main(String[] args) {
         try {
             riskyOperation();

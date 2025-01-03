@@ -2,7 +2,7 @@
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
 
-public class WeakEncryption {
+public class _9{
     public static void main(String[] args) throws Exception {
         String key = "12345678"; // Weak key (8 bytes)
         String data = "SensitiveData";
